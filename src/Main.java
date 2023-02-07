@@ -3,6 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class Main {
+
     public static int size = 0;  // how big the map is
     public static char[][] map = new char[100][100];  // map info by saving as char
 
