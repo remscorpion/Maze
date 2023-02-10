@@ -1,10 +1,15 @@
+/**
+ * CS 172 by Alain
+ * Pair Project: Maze
+ * @author Tomohiro
+ */
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class Main {
 
-    public static int size = 0;  // how big the map is
+    public static int size = 0;  // size of the map
     public static char[][] map = new char[100][100];  // map info by saving as char
 
     /**
@@ -45,13 +50,18 @@ public class Main {
         }
     }
 
+    /**
+     * converse the index from index of array to the x coordinate of StdDraw.line()
+     * @param j index of the array (column)
+     * @return y coordinate of StdDraw.line()
+     */
     public static double getX(int j) {
         return j + 0.5;
     }
 
     /**
      * converse the index from index of array to the y coordinate of StdDraw.line()
-     * @param i index of the array
+     * @param i index of the  (row)
      * @return y coordinate of StdDraw.line()
      */
     public static double getY(int i) {

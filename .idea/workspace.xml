@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c5e649c-5ba5-4b4c-8f95-9535ca7c5851" name="Changes" comment="finished!!!!!!!!">
-      <change afterPath="$PROJECT_DIR$/src/Maze.java" afterDir="false" />
+    <list default="true" id="2c5e649c-5ba5-4b4c-8f95-9535ca7c5851" name="Changes" comment="add an initial file for Ed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -89,11 +88,19 @@
       <option name="project" value="LOCAL" />
       <updated>1675720204020</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add an initial file for Ed">
+      <created>1675800732679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675800732679</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished!!!!!!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished!!!!!!!!" />
+    <MESSAGE value="add an initial file for Ed" />
+    <option name="LAST_COMMIT_MESSAGE" value="add an initial file for Ed" />
   </component>
 </project>
